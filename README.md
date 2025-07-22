@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShenZi-Ast
 - 👀 I’m interested in Machine Learning & Chemistry
-- 🌱 I’m currently learning Python-R
+- 🌱 I’m currently learning Js and im good at Html, Css and Python and familiar with R, SQL
 - 💞️ Collaborate Data science
 - 📫 : Sinaastian@Gmail.com  
 
